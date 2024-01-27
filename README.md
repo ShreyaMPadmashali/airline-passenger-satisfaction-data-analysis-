@@ -1,39 +1,59 @@
-# Data Analysis: AIRLINE PASSENGER SATISFACTION
+### Data Analysis: Airline Passenger Satisfaction Project
 
-Objective: 
+**Objective:**
+This project seeks to enhance an airline company's comprehension of customer satisfaction by thoroughly analyzing key features related to passengers' experiences. The primary aim is to pinpoint significant factors influencing satisfaction levels, leveraging a diverse dataset.
 
-The primary objective of this project is to assist an airline company in understanding and enhancing customer satisfaction. By analyzing a set of key features related to the airline passengers' experience, the aim is to identify the significant factors that influence satisfaction levels. The project focuses on utilizing a dataset containing diverse information about passengers, including gender, customer type, age, purpose of travel, travel class, flight distance, and various satisfaction ratings.
+**Key Features:**
+1. **Demographics:**
+   - Gender
+   - Customer Type
+   - Age
 
-Features:
+2. **Travel Details:**
+   - Purpose of Travel
+   - Travel Class
+   - Flight Distance
 
-- Gender: Gender of the passengers (Female, Male)
-- Customer Type: The customer type (Loyal customer, disloyal customer)
-- Age: The actual age of the passengers
-- Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
-- Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
-- Flight distance: The flight distance of this journey
-- Inflight wifi service: Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
-- Departure/Arrival time convenient: Satisfaction level of Departure/Arrival time convenient
-- Ease of Online booking: Satisfaction level of online booking
-- Gate location: Satisfaction level of Gate location
-- Food and drink: Satisfaction level of Food and drink
-- Online boarding: Satisfaction level of online boarding
-- Seat comfort: Satisfaction level of Seat comfort
-- Inflight entertainment: Satisfaction level of inflight entertainment
-- On-board service: Satisfaction level of On-board service
-- Leg room service: Satisfaction level of Leg room service
-- Baggage handling: Satisfaction level of baggage handling
-- Check-in service: Satisfaction level of Check-in service
-- Inflight service: Satisfaction level of inflight service
-- Cleanliness: Satisfaction level of Cleanliness
-- Departure Delay in Minutes: Minutes delayed when departure
-- Arrival Delay in Minutes: Minutes delayed when Arrival
+3. **Satisfaction Ratings:**
+   - Inflight wifi service
+   - Departure/Arrival time convenience
+   - Ease of Online booking
+   - Gate location
+   - Food and drink
+   - Online boarding
+   - Seat comfort
+   - Inflight entertainment
+   - On-board service
+   - Leg room service
+   - Baggage handling
+   - Check-in service
+   - Inflight service
+   - Cleanliness
 
+4. **Performance Metrics:**
+   - Departure Delay in Minutes
+   - Arrival Delay in Minutes
 
-Target Variable:
-- Satisfaction: Airline satisfaction level categorized as Satisfaction, neutral, or dissatisfaction.
+**Target Variable:**
+Satisfaction levels categorized as Satisfaction, neutral, or dissatisfaction.
 
+**Significance:**
+Understanding and improving these features can significantly impact customer satisfaction, thereby contributing to the overall success, growth, and reputation of the airline company.
 
-Significance:
-- Understanding and improving these factors can positively impact customer satisfaction, which, in turn, contributes to the overall success, growth, and reputation of the airline company.
+### Some project images:
+
+1. **Satisfaction Ratings Overview:**
+   ![Satisfaction Ratings Overview](https://github.com/ShreyaMPadmashali/airline-passenger-satisfaction-data-analysis-/assets/85627970/af55ea21-76d2-4e4f-ad79-115c2bf365eb)
+
+2. **Passenger Demographics:**
+   ![Passenger Demographics](https://github.com/ShreyaMPadmashali/airline-passenger-satisfaction-data-analysis-/assets/85627970/a15b8f9a-080a-4674-8275-e6e69ff585d2)
+
+3. **Flight Service Satisfaction Breakdown:**
+   ![Flight Service Satisfaction Breakdown](https://github.com/ShreyaMPadmashali/airline-passenger-satisfaction-data-analysis-/assets/85627970/e1c2db32-3322-4957-9815-db07bfd6e91f)
+
+4. **On-Time Performance Metrics:**
+   ![On-Time Performance Metrics](https://github.com/ShreyaMPadmashali/airline-passenger-satisfaction-data-analysis-/assets/85627970/727514b1-1fe5-4a64-a0b4-ac82830e99ae)
+
+5. **Passenger Satisfaction Correlation:**
+  ![image](https://github.com/ShreyaMPadmashali/airline-passenger-satisfaction-data-analysis-/assets/85627970/9131128b-321a-4904-9988-ad2fa6a7d6b0)
 
